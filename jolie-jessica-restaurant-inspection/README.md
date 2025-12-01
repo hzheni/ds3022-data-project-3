@@ -1,5 +1,3 @@
-# DS3022-DP3:
-
 # NYC Restaurant Inspections & PLUTO Streaming and Data Analysis
 
 ## Team Members
