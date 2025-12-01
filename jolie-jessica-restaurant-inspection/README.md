@@ -22,19 +22,19 @@ Overall, the inspection property data shows that restaurant safety in NYC is une
 Below are some of our key visualizations from our analysis:
 
 - Borough safety comparison (average scores, critical violation rates, grade mix, and restaurant counts):  
-  ![NYC Borough Safety Comparison](plots/plot_2_borough_comparison.jpg)
+  ![NYC Borough Safety Comparison](plots/plot_2_borough_comparison.png)
 
 - Citywide temporal trends in inspection scores and critical violation rates over time:  
-  ![Temporal Trends](plots/plot_3_temporal_trends.jpg)
+  ![Temporal Trends](plots/plot_3_temporal_trends.png)
 
 - Property value impact on average inspection score and critical violation rate:  
-  ![Property Value Impact](plots/plot_4_property_value_impact.jpg)
+  ![Property Value Impact](plots/plot_4_property_value_impact.png)
 
 - Top 10 most common violations across NYC restaurants:  
-  ![Top Violations](plots/plot_5_top_violations.jpg)
+  ![Top Violations](plots/plot_5_top_violations.png)
 
 - Average inspection scores by cuisine type for the riskiest cuisines in our sample:  
-  ![Cuisine Performance](plots/plot_1_cuisine_performance.jpg)
+  ![Cuisine Performance](plots/plot_1_cuisine_performance.png)
 
 ## Github Repository
 
