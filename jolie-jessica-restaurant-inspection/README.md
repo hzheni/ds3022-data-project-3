@@ -1,6 +1,6 @@
 # NYC Restaurant Inspections & PLUTO Streaming and Data Analysis
 
-This project builds a high-velocity streaming pipeline that ingests ~1M+ records from two NYC Open Data APIs: NYC Restaurant Inspection Results and NYC Primary Land Use Tax Lot Output (PLUTO). It uses producer/consumer architecture to ingest data, incrementally writing the incoming raw data to DuckDB, enabling the two datasets to be joined based on Borough-Block-Lot. This allowed for efficient columnar analysis as we analyzed patterns in the restaurant inspection results.
+This project builds a high-velocity streaming pipeline that ingests ~1M+ records from two NYC Open Data APIs: NYC Restaurant Inspection Results and NYC Primary Land Use Tax Lot Output (PLUTO). It uses producer/consumer architecture to ingest data, incrementally writing the incoming raw data to DuckDB, enabling the two datasets to be joined based on Borough-Block-Lot. This allowed for efficient columnar analysis of how restaurant grades intersect with building economics, revealing that lower-value properties and certain cuisines drive higher risk. Citywide trends show worsening inspection scores without improvement in critical violations, and violation-frequency analysis highlights tens of thousands of recurring pest and sanitation issues, indicating systemic gaps in basic facility maintenance across the city.
 
 ## Team Members
 
